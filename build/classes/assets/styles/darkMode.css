@@ -1,0 +1,23 @@
+ 
+*{
+    -mainColor :  #424242;
+    -mainColor-light : #424242;
+    -mainColor-dark : #121212;
+    -fx-filling-text : #fff;
+    -splash-color : #8b3f7c;
+    -splash-color :#aabcf7;
+}
+
+
+#MainForm{
+
+    -fx-background-color: #fff;
+}
+#splash{
+     -fx-background-color: -splash-color;
+    
+}
+.jfx-progress-bar > .bar {
+    -fx-background-color: #1e90ff;
+}
+ 
